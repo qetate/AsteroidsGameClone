@@ -45,4 +45,4 @@ Manages the game state, including score, lives, player respawn, and game-over co
 - **Objective**: Destroy asteroids to increase your score. Avoid collisions to preserve your lives.
 
 ## Credits
-- [How to make Asteroids in Unity (Complete Tutorial)](https://youtu.be/cIeWhztKyAg?si=OfUJ7hO332W0JQRO)# AsteroidsGameClone
+- [How to make Asteroids in Unity (Complete Tutorial)](https://youtu.be/cIeWhztKyAg?si=OfUJ7hO332W0JQRO)
